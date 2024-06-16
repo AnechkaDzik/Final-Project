@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - danger
+  - koniec
+  - next
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sky
+    uniqueID: 1453311195
+    locked: 0
+  - name: gracz
+    uniqueID: 157120677
+    locked: 0
+  - name: przeciwnik
+    uniqueID: 3227515065
+    locked: 0
+  - name: kwiaty
+    uniqueID: 2252515297
+    locked: 0
+  - name: danger
+    uniqueID: 2112844233
+    locked: 0
+  - name: ground
+    uniqueID: 1058265729
+    locked: 0
+  - name: cave
+    uniqueID: 1738063829
+    locked: 0
+  - name: koniec
+    uniqueID: 2124201167
+    locked: 0
